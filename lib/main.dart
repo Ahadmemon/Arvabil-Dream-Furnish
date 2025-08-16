@@ -13,11 +13,7 @@ import 'package:provider/provider.dart';
 import 'core/routes.dart';
 
 const String myTokenKey = "x-auth-token";
-// const String BASE_URL = "http://192.168.0.118:8080/api";
-// const String BASE_URL = "http://localhost:8080/api";
 const String BASE_URL = "https://https-github-com-ahadmemon.onrender.com/api";
-// const String BASE_URL = "http://localhost:3000/api";
-// const String BASE_URL = "http://192.168.50.253:8080/api";
 
 void main() {
   WidgetsApp.debugAllowBannerOverride = false;
